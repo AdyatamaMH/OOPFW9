@@ -11,11 +11,16 @@
 
 2c)(ii)The outline of a negative effect  that a future change in the design of the Sales object might have on this suite of programs is SalesPerson must be changed in Sales. CalcTotalSales is dependent on Sales.
 
-2(d) 
+2(d)
+
 102;
+
 2;
+
 2550.4;
+
 5000;
+
 
 2h)A suggestion that must be made is a date variable must be added in the class and in the constructor. Getters and Setters for date variables would be needed. CalcTotal would have to account for the date variable.
 
